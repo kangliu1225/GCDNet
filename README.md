@@ -23,8 +23,8 @@ If our paper and codes are useful to you, please cite:
 title = {Denoising precedes enrichment: aspect-sentiment-aware graph contrastive distillation network for review-basedrecommendation},
 author = {Tongtong Yu and Sheng Sang and Kang Liu},
 journal = {Information Sciences},
-volume = {X},
-pages = {1-16},
-year = {2025},
+volume = {726},
+pages = {122756},
+year = {2026},
 doi = {https://doi.org/10.1016/j.ins.2025.122756}
 }
